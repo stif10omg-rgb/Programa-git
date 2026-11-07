@@ -1,0 +1,12 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "App SOIVERA",
+            "request": "launch",
+            "mainClass": "com.soivera.App",
+            "vmArgs": "-Dfile.encoding=UTF-8 -Dstdout.encoding=UTF-8"
+        }
+    ]
+}
